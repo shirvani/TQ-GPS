@@ -1,0 +1,581 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">GPS.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">GPS</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">PATH=/opt/EmbedSky/4.3.3/bin/:/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">build_qt45 Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Qt in PATH Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+   <value key="QtVersionId" type="int">2</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Qt in PATH Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <value key="QtVersionId" type="int">2</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-build_qt45 Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Debug</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-build_qt45 Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Release</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+   <valuelist key="userEnvironmentChanges" type="QVariantList">
+    <value type="QString">PATH=/opt/EmbedSky/4.3.3/bin/:/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_BUS_TYPE=session</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/ubuntu-2d.default.path</value>
+    <value type="QString">DESKTOP_SESSION=ubuntu-2d</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=ubuntu-2d</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/koinkoin/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=9209</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-60A0Pg</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-60A0Pg/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module:canberra-gtk-module</value>
+    <value type="QString">HOME=/home/koinkoin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/koinkoin/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=koinkoin</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/ubuntu-2d.mandatory.path</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/koinkoin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">SESSION_MANAGER=local/koinkoin-HP-Mini-5101:@/tmp/.ICE-unix/1174,unix/koinkoin-HP-Mini-5101:/tmp/.ICE-unix/1174</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AGENT_PID=1211</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-60A0Pg/ssh</value>
+    <value type="QString">UBUNTU_MENUPROXY=libappmenu.so</value>
+    <value type="QString">USER=koinkoin</value>
+    <value type="QString">USERNAME=koinkoin</value>
+    <value type="QString">XAUTHORITY=/home/koinkoin/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu-2d:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=Unity</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=8fd2a1130bd2766577bcd3880000000a-1324624742.181890-1976652389</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS/GPS.pro</value>
+    <value type="QString">-r</value>
+    <value type="QString">CONFIG+=debug</value>
+    <value type="QString">-spec</value>
+    <value type="QString">/opt/EmbedSky/qt-4.5/__install/arm/mkspecs/qws/linux-arm-g++</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/opt/EmbedSky/qt-4.5/__install/arm/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS</value>
+   <valuelist key="qmakeArgs" type="QVariantList">
+    <value type="QString">-spec</value>
+    <value type="QString">/opt/EmbedSky/qt-4.5/__install/arm/mkspecs/qws/linux-arm-g++</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_BUS_TYPE=session</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/ubuntu-2d.default.path</value>
+    <value type="QString">DESKTOP_SESSION=ubuntu-2d</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=ubuntu-2d</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/koinkoin/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=9209</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-60A0Pg</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-60A0Pg/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module:canberra-gtk-module</value>
+    <value type="QString">HOME=/home/koinkoin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/koinkoin/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=koinkoin</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/ubuntu-2d.mandatory.path</value>
+    <value type="QString">PATH=/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/koinkoin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">SESSION_MANAGER=local/koinkoin-HP-Mini-5101:@/tmp/.ICE-unix/1174,unix/koinkoin-HP-Mini-5101:/tmp/.ICE-unix/1174</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AGENT_PID=1211</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-60A0Pg/ssh</value>
+    <value type="QString">UBUNTU_MENUPROXY=libappmenu.so</value>
+    <value type="QString">USER=koinkoin</value>
+    <value type="QString">USERNAME=koinkoin</value>
+    <value type="QString">XAUTHORITY=/home/koinkoin/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu-2d:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=Unity</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=8fd2a1130bd2766577bcd3880000000a-1324624742.181890-1976652389</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_BUS_TYPE=session</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/ubuntu-2d.default.path</value>
+    <value type="QString">DESKTOP_SESSION=ubuntu-2d</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=ubuntu-2d</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/koinkoin/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=9209</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-60A0Pg</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-60A0Pg/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module:canberra-gtk-module</value>
+    <value type="QString">HOME=/home/koinkoin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/koinkoin/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=koinkoin</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/ubuntu-2d.mandatory.path</value>
+    <value type="QString">PATH=/usr/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/koinkoin</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">SESSION_MANAGER=local/koinkoin-HP-Mini-5101:@/tmp/.ICE-unix/1174,unix/koinkoin-HP-Mini-5101:/tmp/.ICE-unix/1174</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AGENT_PID=1211</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-60A0Pg/ssh</value>
+    <value type="QString">UBUNTU_MENUPROXY=libappmenu.so</value>
+    <value type="QString">USER=koinkoin</value>
+    <value type="QString">USERNAME=koinkoin</value>
+    <value type="QString">XAUTHORITY=/home/koinkoin/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu-2d:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=Unity</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=8fd2a1130bd2766577bcd3880000000a-1324624742.181890-1976652389</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS/GPS.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake-qt4</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_BUS_TYPE=session</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/ubuntu-2d.default.path</value>
+    <value type="QString">DESKTOP_SESSION=ubuntu-2d</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=ubuntu-2d</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/koinkoin/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=9209</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-60A0Pg</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-60A0Pg/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module:canberra-gtk-module</value>
+    <value type="QString">HOME=/home/koinkoin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/koinkoin/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=koinkoin</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/ubuntu-2d.mandatory.path</value>
+    <value type="QString">PATH=/usr/bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/koinkoin</value>
+    <value type="QString">QTDIR=/usr/share/qt4</value>
+    <value type="QString">SESSION_MANAGER=local/koinkoin-HP-Mini-5101:@/tmp/.ICE-unix/1174,unix/koinkoin-HP-Mini-5101:/tmp/.ICE-unix/1174</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AGENT_PID=1211</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-60A0Pg/ssh</value>
+    <value type="QString">UBUNTU_MENUPROXY=libappmenu.so</value>
+    <value type="QString">USER=koinkoin</value>
+    <value type="QString">USERNAME=koinkoin</value>
+    <value type="QString">XAUTHORITY=/home/koinkoin/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu-2d:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=Unity</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=8fd2a1130bd2766577bcd3880000000a-1324624742.181890-1976652389</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Qt in PATH Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Qt in PATH Release</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build_qt45 Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build_qt45 Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build_qt45 Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build_qt45 Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_BUS_TYPE=session</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/ubuntu-2d.default.path</value>
+    <value type="QString">DESKTOP_SESSION=ubuntu-2d</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=ubuntu-2d</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/koinkoin/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=17441</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-60A0Pg</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-60A0Pg/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module:canberra-gtk-module</value>
+    <value type="QString">HOME=/home/koinkoin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/koinkoin/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=koinkoin</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/ubuntu-2d.mandatory.path</value>
+    <value type="QString">PATH=/opt/EmbedSky/4.3.3/bin/:/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/koinkoin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">SESSION_MANAGER=local/koinkoin-HP-Mini-5101:@/tmp/.ICE-unix/1174,unix/koinkoin-HP-Mini-5101:/tmp/.ICE-unix/1174</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AGENT_PID=1211</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-60A0Pg/ssh</value>
+    <value type="QString">UBUNTU_MENUPROXY=libappmenu.so</value>
+    <value type="QString">USER=koinkoin</value>
+    <value type="QString">USERNAME=koinkoin</value>
+    <value type="QString">XAUTHORITY=/home/koinkoin/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu-2d:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=Unity</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=8fd2a1130bd2766577bcd3880000000a-1324624742.181890-1976652389</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS/GPS.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">/opt/EmbedSky/qt-4.5/__install/arm/mkspecs/qws/linux-arm-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/opt/EmbedSky/qt-4.5/__install/arm/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build_qt45 Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_BUS_TYPE=session</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/ubuntu-2d.default.path</value>
+    <value type="QString">DESKTOP_SESSION=ubuntu-2d</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=ubuntu-2d</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/koinkoin/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=17441</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-60A0Pg</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-60A0Pg/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module:canberra-gtk-module</value>
+    <value type="QString">HOME=/home/koinkoin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/koinkoin/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=koinkoin</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/ubuntu-2d.mandatory.path</value>
+    <value type="QString">PATH=/opt/EmbedSky/4.3.3/bin/:/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/koinkoin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">SESSION_MANAGER=local/koinkoin-HP-Mini-5101:@/tmp/.ICE-unix/1174,unix/koinkoin-HP-Mini-5101:/tmp/.ICE-unix/1174</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AGENT_PID=1211</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-60A0Pg/ssh</value>
+    <value type="QString">UBUNTU_MENUPROXY=libappmenu.so</value>
+    <value type="QString">USER=koinkoin</value>
+    <value type="QString">USERNAME=koinkoin</value>
+    <value type="QString">XAUTHORITY=/home/koinkoin/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu-2d:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=Unity</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=8fd2a1130bd2766577bcd3880000000a-1324624742.181890-1976652389</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-build_qt45 Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">build_qt45 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_ADDRESS=unix:abstract=/tmp/dbus-vrtqPboJ8T,guid=4a11deb1b93a178b43aeb44e00000018</value>
+    <value type="QString">DBUS_STARTER_BUS_TYPE=session</value>
+    <value type="QString">DEFAULTS_PATH=/usr/share/gconf/ubuntu-2d.default.path</value>
+    <value type="QString">DESKTOP_SESSION=ubuntu-2d</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=ubuntu-2d</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/home/koinkoin/.local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=19357</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-60A0Pg</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-60A0Pg/gpg:0:1</value>
+    <value type="QString">GTK_MODULES=canberra-gtk-module:canberra-gtk-module</value>
+    <value type="QString">HOME=/home/koinkoin</value>
+    <value type="QString">LANG=en_US.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/home/koinkoin/qtcreator-1.3.0/lib/qtcreator:</value>
+    <value type="QString">LOGNAME=koinkoin</value>
+    <value type="QString">MANDATORY_PATH=/usr/share/gconf/ubuntu-2d.mandatory.path</value>
+    <value type="QString">PATH=/opt/EmbedSky/4.3.3/bin/:/opt/EmbedSky/qt-4.5/__install/arm//bin:/usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games</value>
+    <value type="QString">PWD=/home/koinkoin</value>
+    <value type="QString">QTDIR=/opt/EmbedSky/qt-4.5/__install/arm/</value>
+    <value type="QString">SESSION_MANAGER=local/koinkoin-HP-Mini-5101:@/tmp/.ICE-unix/1174,unix/koinkoin-HP-Mini-5101:/tmp/.ICE-unix/1174</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SSH_AGENT_PID=1211</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-60A0Pg/ssh</value>
+    <value type="QString">UBUNTU_MENUPROXY=libappmenu.so</value>
+    <value type="QString">USER=koinkoin</value>
+    <value type="QString">USERNAME=koinkoin</value>
+    <value type="QString">XAUTHORITY=/home/koinkoin/.Xauthority</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu-2d:/etc/xdg</value>
+    <value type="QString">XDG_CURRENT_DESKTOP=Unity</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share/ubuntu-2d:/usr/share/gnome:/usr/local/share/:/usr/share/</value>
+    <value type="QString">XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=8fd2a1130bd2766577bcd3880000000a-1324624742.181890-1976652389</value>
+    <value type="QString">XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/koinkoin/Workspace/EmbeddedLinux/final/GPS</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">build_qt45 Debug</value>
+   <value type="QString">build_qt45 Release</value>
+   <value type="QString">Qt in PATH Debug</value>
+   <value type="QString">Qt in PATH Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>
